@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-br.xml.gz"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-br.xml.gz"
 #EXTINF:-1 tvg-id="Caze.TV.HD" tvg-name="A Fazenda HD" tvg-logo="https://img.listaiptvhd.live/images/aFazenda.png" group-title="A Fazenda 2026",A Fazenda HD
 http://br.svrplus.xyz/2DUET8DUP/299RXM668/156813?tkn=1790710572
 #EXTINF:-1 tvg-id="Caze.TV.HD" tvg-name="A Fazenda HD *" tvg-logo="https://img.listaiptvhd.live/images/aFazenda.png" group-title="A Fazenda 2026",A Fazenda HD *
